@@ -5,14 +5,17 @@ Mobile Cellular Subscriptions (1960-2019)
 
 #### -- Project Status: [Completed]
 
+
 ## Project Intro/Objective
 The purpose of this project is to take a look at when mobile subscriptions started gaining traction and predicting the next set of numbers for mobile subscriptions for Eastern and Western countries.
+
 
 ### Methods Used
 * Machine Learning
 * Data Visualization
 * Interquartile Range
 * Exploratory Data Analysis
+
 
 ### Technologies
 * Jupyter
@@ -22,7 +25,7 @@ The purpose of this project is to take a look at when mobile subscriptions start
 * Matplot
 * Seaborn
 * Scikit Learn
-*  
+
 
 ## Project Description
 Using up-to-date data from [Data WorldBank](https://data.worldbank.org/indicator/IT.CEL.SETS.P2), I was curious about which country/countries were the first to provide mobile cellular subscriptions to people and which country accelerated over time.
