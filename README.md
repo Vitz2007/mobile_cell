@@ -25,8 +25,8 @@ The purpose of this project is to take a look at when mobile subscriptions start
 *  
 
 ## Project Description
-Using up-to-date data from Data WorldBank, I was curious about which country/countries were the first to provide mobile cellular subscriptions to people and which country accelerated over time.
-	In order to answer those questions, I utilized pandas and matplot libraries to have the data show me trends. Pandas allowed me to uncover from what year did a country start to have subscriptions, find any outliers, and calculate percentage change over the year.
+Using up-to-date data from [Data WorldBank](https://data.worldbank.org/indicator/IT.CEL.SETS.P2), I was curious about which country/countries were the first to provide mobile cellular subscriptions to people and which country accelerated over time.
+In order to answer those questions, I utilized pandas and matplot libraries to have the data show me trends. Pandas allowed me to uncover from what year did a country start to have subscriptions, find any outliers, and calculate percentage change over the year.
 Some challenges faced while cleaning through the data were missing data and whether or not to impute or completely disregard the data before putting it into a machine learning model.
 
 
